@@ -1,4 +1,4 @@
-# Certifications in Data Analytics and Related Fields
+# Certifications in Data Analytics 🏅
 
 ## Overview
 - This repository showcases my certifications in **Data Analytics**. 

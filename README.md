@@ -28,6 +28,10 @@
 - Specialized in Python's core data manipulation libraries: Pandas and NumPy.  
 - Worked on handling large datasets and performing complex computations.
 
+### 6. Generative AI Leader
+- Specialized in Gen AI, certified by Google.  
+- This certification marks an important step to understand how Generative AI can drive innovations, enhance decision-making, and create meaningful business impact.
+
 
 ## Skills Highlighted
 - **Data Analysis Tools**: Excel, Power BI, Tableau.  

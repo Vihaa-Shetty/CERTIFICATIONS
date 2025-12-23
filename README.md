@@ -32,6 +32,10 @@
 - Specialized in Gen AI, certified by Google.  
 - This certification marks an important step to understand how Generative AI can drive innovations, enhance decision-making, and create meaningful business impact.
 
+### 7. Microsoft Power BI
+- Specialized in Power BI, certified by Microsoft focusing (PL-300).  
+- This certification marks an important step to understand how one can utilize dashboarding features to demonstrate and make important business decisions.
+
 
 ## Skills Highlighted
 - **Data Analysis Tools**: Excel, Power BI, Tableau.  
